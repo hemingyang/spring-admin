@@ -7,11 +7,12 @@
 ![avatar](a1.png)
 ###实例挂载点
 
+```
 server.port=8082
 spring.application.name=Spring Boot Client
 spring.boot.admin.client.url=http://localhost:8080          ##应用端口
 management.endpoints.web.exposure.include=*
-
+```
 ![avatar](a2.png)
 
 admin面板
