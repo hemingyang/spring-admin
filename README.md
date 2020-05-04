@@ -1,4 +1,4 @@
-# spring-admin
+# springboot-admin
 
 
 一个实例应用
